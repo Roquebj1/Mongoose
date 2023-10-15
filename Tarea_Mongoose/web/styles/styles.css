@@ -1,0 +1,57 @@
+/* Estilo para botones de acción en los elementos del libro */
+.action-button {
+  background-color: #FF5733;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+/* Estilo para el formulario de agregar libro */
+.libro-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Estilo para el formulario de agregar libro - Input */
+.libro-form input[type="text"],
+.libro-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* Estilo para el botón "Agregar" en el formulario */
+.libro-form button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* Estilo para los títulos de los libros */
+.libro-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+/* Estilo para la descripción de los libros */
+.libro-description {
+  font-size: 16px;
+  color: #555;
+}
+
+/* Estilo para resaltar el título principal */
+.main-title {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #007BFF;
+}

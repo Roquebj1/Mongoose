@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Bajo la misma estrella",
+        "autor": "John Green",
+        "añoPublicacion": "2012",
+        "isbn": "978-0-06-112008-4",
+        "genero": "Novela contemporánea"
+    },
+    {
+        "titulo": "El libro de la selva",
+        "autor": "Rudyard Kipling",
+        "añoPublicacion": "1894",
+        "isbn": "978-3-16-148410-0",
+        "genero": "Realismo mágico"
+    },
+    {
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "añoPublicacion": "1943",
+        "isbn": "978-3-16-148410-0",
+        "genero": "Literatura infantil"
+    }
+]
